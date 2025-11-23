@@ -30,9 +30,13 @@ Lien : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 ## Structure du projet
 .
 ├── data/
+
 │   └── online_retail_II.xlsx          # Dataset original
-├── notebook.ipynb                     # Notebook complet (exploration → clustering)
+
+├── online-retail-data-clustering-personal.ipynb                     # Notebook complet (exploration → clustering)
+
 ├── requirements.txt                   # Dépendances
+
 ├── README.md                          # Ce fichier
 
 
