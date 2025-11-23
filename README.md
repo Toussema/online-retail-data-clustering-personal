@@ -78,7 +78,7 @@ Lien : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 ## Installation & exécution
 
 ```bash
-git clone https://github.com/ton-pseudo/online-retail-rfm-clustering.git
-cd online-retail-rfm-clustering
+git clone https://github.com/Toussema/online-retail-data-clustering-personal.git
+cd online-retail-data-clustering-personal
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
